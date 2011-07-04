@@ -261,3 +261,5 @@ This ends the tutorial for now. Take a look at the documentation for lots more c
 * [Templates](/docs/0.3/templetor)
 * [Cookbook](/cookbook)
 * [Code samples](/src)
+[http://forexrobot.eu.com](http://forexrobot.eu.com)
+
