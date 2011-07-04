@@ -89,6 +89,7 @@ _Other languages:_ [简体中文](/cookbook/index.zh-cn) | [日本語](/cookbook
 * [mod_wsgi deployment through Nginx](/cookbook/mod_wsgi-nginx )
 * [Fastcgi deployment through Nginx](/cookbook/fastcgi-nginx)
 * [PyISAPIe deployment through IIS7/IIS6](/cookbook/iis7_iis6_windows_pyisapie)
+* [http://forexrobot.eu.com](http://forexrobot.eu.com)
 
 ## Subdomains
 * Subdomains and how to access the username (requested)
